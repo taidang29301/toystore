@@ -22,7 +22,7 @@
 	<body>
 
 		<div class="container">
-			<h2>Add New A Car</h2>
+			<h2>Add New</h2>
 			<form action="<?php echo $_SERVER['PHP_SELF'] ?>" method="POST">
 			<div class = "from-group">
 				<label for="Code">Product code:</label>
